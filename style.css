@@ -1,0 +1,25 @@
+/*  In the near section*/
+.bannar_section_bg {
+    background-image: url("./Images/Hero-bg.png");
+    width: auto;
+    height: auto;
+    padding-left: 400px;
+    padding-top: 26px;
+    padding-bottom: 44px;
+
+}
+
+
+.bannar_section_container {
+    width: 400px;
+    text-align: center;
+
+}
+
+.btn-1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
