@@ -23,3 +23,61 @@
     border-radius: 5px;
     text-decoration: none;
 }
+
+
+
+
+/* Why Web Devolpoment section */
+.web-devolepment-section , .target{
+    height: auto;
+   background-color:rgb(230, 228, 227);
+   margin: 10px 130px 10px 130px;
+   padding: 30px 90px 30px 90px;
+ 
+    
+}
+.text-1{
+    padding-left: 180px;
+    width: 400px;
+    text-align: center;
+} 
+
+
+.web-devolopment-1{
+  
+    display: flex;
+    justify-content: space-between;
+    border: 0px solid wheat;
+    background-color:rgb(246, 240, 228);
+    margin-bottom: 10px;
+    border-radius:10px;
+    padding: 15px 30px 2px 60px;
+     
+    
+}
+
+.web-devolopment-2{
+    display: flex;
+    justify-content:right;
+    border: 0px solid wheat;
+    background-color:rgb(246, 240, 228);
+    margin-bottom: 10px;
+    border-radius:10px;
+    padding: 15px 70px 2px 20px;
+  
+
+}
+
+.web-devolopment-3{
+    display: flex;
+    justify-content: space-between;
+      border: 0px solid wheat;
+    background-color:rgb(246, 240, 228);
+    margin-bottom: 10px;
+    border-radius:10px;
+    padding: 15px 30px 2px 60px;
+
+}
+.btn-2{
+    padding: 5px;
+}
