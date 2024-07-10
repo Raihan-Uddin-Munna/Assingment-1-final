@@ -1,3 +1,25 @@
+/* Nav ver Section */
+.nav-section {
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    padding: 15px;
+
+
+}
+
+.dwnl-btn {
+    padding: 8px;
+
+}
+
+
+
+
+
+
+
+
 /*  In the near section*/
 .bannar_section_bg {
     background-image: url("./Images/Hero-bg.png");
@@ -171,4 +193,22 @@
     text-align: center;
     border-radius: 10px;
 
+}
+
+
+/* Footer section */
+.footer-section {
+    height: 100px;
+    background-color: rgb(239, 231, 231);
+    color: black;
+    margin: 10px 130px 00px 130px;
+    padding: 10px 40px 10px 40px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.dots {
+    color: rgb(9, 89, 193);
 }
