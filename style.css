@@ -135,3 +135,40 @@
 .box-3 {
     background-color: hsl(56, 68%, 87%);
 }
+
+
+
+
+/* I Need Support Section */
+.text-fild {
+    display: inline;
+    gap: 20px;
+}
+
+#input-fild {
+    width: 400px;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.text-fild>button {
+    font-size: medium;
+    width: 100px;
+    padding: 10px;
+    border-radius: 6px;
+    border-style: none;
+}
+
+.support-section {
+
+    margin: 20px 130px 20px 130px;
+    background-image: url("./Images/handshake.jpg");
+    padding: 20px 60px 50px 60px;
+    width: auto;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}
